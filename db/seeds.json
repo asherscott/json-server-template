@@ -237,22 +237,25 @@
       "birthday": "Winter 23",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Goat Cheese": "https://www.stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png"
         },
         {
-          "CrabCakes": ""
+          "Poppyseed Muffin": "https://www.stardewvalleywiki.com/mediawiki/images/8/8e/Poppyseed_Muffin.png"
         },
         {
-          "CrabCakes": ""
+          "Salad": "https://www.stardewvalleywiki.com/mediawiki/images/7/7e/Salad.png"
         },
         {
-          "CrabCakes": ""
+          "Stir Fry": "https://www.stardewvalleywiki.com/mediawiki/images/e/ed/Stir_Fry.png"
         },
         {
-          "CrabCakes": ""
+          "Truffle": "https://www.stardewvalleywiki.com/mediawiki/images/f/f2/Truffle.png"
         },
         {
-          "CrabCakes": ""
+          "Vegetable Medley": "https://www.stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png"
+        },
+        {
+          "Wine": "https://www.stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
         }
       ]
     },
@@ -265,22 +268,37 @@
       "birthday": "Summer 10",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Battery Pack": "https://www.stardewvalleywiki.com/mediawiki/images/2/25/Battery_Pack.png"
         },
         {
-          "CrabCakes": ""
+          "Cauliflower": "https://www.stardewvalleywiki.com/mediawiki/images/a/aa/Cauliflower.png"
         },
         {
-          "CrabCakes": ""
+          "Cheese Cauliflower": "https://www.stardewvalleywiki.com/mediawiki/images/6/6e/Cheese_Cauliflower.png"
         },
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Gold Bar": "https://www.stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png"
         },
         {
-          "CrabCakes": ""
+          "Iridium Bar": "https://www.stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
+        },
+        {
+          "Miner's Treat": "https://www.stardewvalleywiki.com/mediawiki/images/1/12/Miner%27s_Treat.png"
+        },
+        {
+          "Pepper Poppers": "https://www.stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png"
+        },
+        {
+          "Radioactive Bar": "https://www.stardewvalleywiki.com/mediawiki/images/7/7e/Radioactive_Bar.png"
+        },
+        {
+          "Rhubarb Pie": "https://www.stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png"
+        },
+        {
+          "Strawberry": "https://www.stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
         }
       ]
     },
@@ -293,22 +311,31 @@
       "birthday": "Fall 2",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Emerald": "https://www.stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png"
         },
         {
-          "CrabCakes": ""
+          "Melon": "https://www.stardewvalleywiki.com/mediawiki/images/1/19/Melon.png"
         },
         {
-          "CrabCakes": ""
+          "Poppy": "https://www.stardewvalleywiki.com/mediawiki/images/3/37/Poppy.png"
         },
         {
-          "CrabCakes": ""
+          "Poppyseed Muffin": "https://www.stardewvalleywiki.com/mediawiki/images/8/8e/Poppyseed_Muffin.png"
         },
         {
-          "CrabCakes": ""
+          "Red Plate": "https://www.stardewvalleywiki.com/mediawiki/images/4/45/Red_Plate.png"
+        },
+        {
+          "Roots Platter": "https://www.stardewvalleywiki.com/mediawiki/images/e/e0/Roots_Platter.png"
+        },
+        {
+          "Sandfish": "https://www.stardewvalleywiki.com/mediawiki/images/b/bb/Sandfish.png"
+        },
+        {
+          "Tom Kha Soup": "https://www.stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png"
         }
       ]
     },
@@ -321,22 +348,16 @@
       "birthday": "Winter 7",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Fish Taco": "https://www.stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
         },
         {
-          "CrabCakes": ""
+          "Green Tea": "https://www.stardewvalleywiki.com/mediawiki/images/8/8f/Green_Tea.png"
         },
         {
-          "CrabCakes": ""
+          "Summer Spangle": "https://www.stardewvalleywiki.com/mediawiki/images/9/9f/Summer_Spangle.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Triopical Curry": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png"
         }
       ]
     },
@@ -349,22 +370,37 @@
       "birthday": "Winter 26",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Amethyst": "https://www.stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
         },
         {
-          "CrabCakes": ""
+          "Aquamarine": "https://www.stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png"
         },
         {
-          "CrabCakes": ""
+          "Artichoke Dip": "https://www.stardewvalleywiki.com/mediawiki/images/7/77/Artichoke_Dip.png"
         },
         {
-          "CrabCakes": ""
+          "Emerald": "https://www.stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png"
         },
         {
-          "CrabCakes": ""
+          "Fiddlehead Risotto": "https://www.stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png"
         },
         {
-          "CrabCakes": ""
+          "Gold Bar": "https://www.stardewvalleywiki.com/mediawiki/images/4/4e/Gold_Bar.png"
+        },
+        {
+          "Iridium Bar": "https://www.stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
+        },
+        {
+          "Jade": "https://www.stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png"
+        },
+        {
+          "Omni Geode": "https://www.stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png"
+        },
+        {
+          "Ruby": "https://www.stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png"
+        },
+        {
+          "Topaz": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png"
         }
       ]
     },
@@ -377,22 +413,16 @@
       "birthday": "Summer 19",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Bean Hotpot": "https://www.stardewvalleywiki.com/mediawiki/images/2/24/Bean_Hotpot.png"
         },
         {
-          "CrabCakes": ""
+          "Ice Cream": "https://www.stardewvalleywiki.com/mediawiki/images/5/5d/Ice_Cream.png"
         },
         {
-          "CrabCakes": ""
+          "Rice Pudding": "https://www.stardewvalleywiki.com/mediawiki/images/e/ec/Rice_Pudding.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Strawberry": "https://www.stardewvalleywiki.com/mediawiki/images/6/6d/Strawberry.png"
         }
       ]
     },
@@ -405,22 +435,28 @@
       "birthday": "Summer 22",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Amethyst": "https://www.stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
         },
         {
-          "CrabCakes": ""
+          "Aquamarine": "https://www.stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png"
         },
         {
-          "CrabCakes": ""
+          "Emerald": "https://www.stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png"
         },
         {
-          "CrabCakes": ""
+          "Jade": "https://www.stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png"
         },
         {
-          "CrabCakes": ""
+          "Lemon Stone": "https://www.stardewvalleywiki.com/mediawiki/images/3/31/Lemon_Stone.png"
         },
         {
-          "CrabCakes": ""
+          "Omni Geode": "https://www.stardewvalleywiki.com/mediawiki/images/0/09/Omni_Geode.png"
+        },
+        {
+          "Ruby": "https://www.stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png"
+        },
+        {
+          "Topaz": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png"
         }
       ]
     },
@@ -433,22 +469,22 @@
       "birthday": "Winter 20",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Beet": "https://www.stardewvalleywiki.com/mediawiki/images/a/a4/Beet.png"
         },
         {
-          "CrabCakes": ""
+          "Chocolate Cake": "https://www.stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png"
         },
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Fairy Rose": "https://www.stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
         },
         {
-          "CrabCakes": ""
+          "Stuffing": "https://www.stardewvalleywiki.com/mediawiki/images/9/9a/Stuffing.png"
         },
         {
-          "CrabCakes": ""
+          "Tulip": "https://www.stardewvalleywiki.com/mediawiki/images/c/cf/Tulip.png"
         }
       ]
     },
@@ -461,22 +497,10 @@
       "birthday": "Fall 24",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Fried Mushroom": "https://www.stardewvalleywiki.com/mediawiki/images/4/4a/Fried_Mushroom.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Leek": "https://www.stardewvalleywiki.com/mediawiki/images/5/57/Leek.png"
         }
       ]
     },
@@ -489,22 +513,19 @@
       "birthday": "Summer 8",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Escargot": "https://www.stardewvalleywiki.com/mediawiki/images/7/78/Escargot.png"
         },
         {
-          "CrabCakes": ""
+          "Fish Taco": "https://www.stardewvalleywiki.com/mediawiki/images/d/d5/Fish_Taco.png"
         },
         {
-          "CrabCakes": ""
+          "Orange": "https://www.stardewvalleywiki.com/mediawiki/images/4/43/Orange.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Tropical Curry": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Tropical_Curry.png"
         }
       ]
     },
@@ -517,22 +538,13 @@
       "birthday": "Summer 4",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Fairy Rose": "https://www.stardewvalleywiki.com/mediawiki/images/5/5c/Fairy_Rose.png"
         },
         {
-          "CrabCakes": ""
+          "Pink Cake": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Plum Pudding": "https://www.stardewvalleywiki.com/mediawiki/images/a/a0/Plum_Pudding.png"
         }
       ]
     },
@@ -545,22 +557,28 @@
       "birthday": "Fall 11",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Chocolate Cake": "https://www.stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png"
         },
         {
-          "CrabCakes": ""
+          "Crispy Bass": "https://www.stardewvalleywiki.com/mediawiki/images/5/53/Crispy_Bass.png"
         },
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Eggplant Paresan": "https://www.stardewvalleywiki.com/mediawiki/images/7/73/Eggplant_Parmesan.png"
         },
         {
-          "CrabCakes": ""
+          "Fried Eel": "https://www.stardewvalleywiki.com/mediawiki/images/8/84/Fried_Eel.png"
         },
         {
-          "CrabCakes": ""
+          "Pancakes": "https://www.stardewvalleywiki.com/mediawiki/images/6/6b/Pancakes.png"
+        },
+        {
+          "Rhubarb Pie": "https://www.stardewvalleywiki.com/mediawiki/images/2/21/Rhubarb_Pie.png"
+        },
+        {
+          "Vegetable Medley": "https://www.stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png"
         }
       ]
     },
@@ -573,22 +591,10 @@
       "birthday": "Spring 4",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Fiddlehead Risotto": "https://www.stardewvalleywiki.com/mediawiki/images/2/2d/Fiddlehead_Risotto.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Roasted Hazelnuts": "https://www.stardewvalleywiki.com/mediawiki/images/1/18/Roasted_Hazelnuts.png"
         }
       ]
     },
@@ -601,22 +607,22 @@
       "birthday": "Winter 1",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Iridium Bar": "https://www.stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
         },
         {
-          "CrabCakes": ""
+          "Pumpkin": "https://www.stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
         },
         {
-          "CrabCakes": ""
+          "Void Egg": "https://www.stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
         },
         {
-          "CrabCakes": ""
+          "Void Mayonnaise": "https://www.stardewvalleywiki.com/mediawiki/images/f/f3/Void_Mayonnaise.png"
         },
         {
-          "CrabCakes": ""
+          "Wild Horseradish": "https://www.stardewvalleywiki.com/mediawiki/images/9/90/Wild_Horseradish.png"
         }
       ]
     },
@@ -629,22 +635,16 @@
       "birthday": "Summer 26",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Duck Feather": "https://www.stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png"
         },
         {
-          "CrabCakes": ""
+          "Mango": "https://www.stardewvalleywiki.com/mediawiki/images/3/38/Mango.png"
         },
         {
-          "CrabCakes": ""
+          "Ostrich Egg": "https://www.stardewvalleywiki.com/mediawiki/images/c/c3/Ostrich_Egg.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Poi": "https://www.stardewvalleywiki.com/mediawiki/images/f/f1/Poi.png"
         }
       ]
     },
@@ -657,22 +657,19 @@
       "birthday": "Spring 7",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Autumn's Bounty": "https://www.stardewvalleywiki.com/mediawiki/images/f/f4/Autumn%27s_Bounty.png"
         },
         {
-          "CrabCakes": ""
+          "Glazed Yams": "https://www.stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png"
         },
         {
-          "CrabCakes": ""
+          "Green Tea": "https://www.stardewvalleywiki.com/mediawiki/images/8/8f/Green_Tea.png"
         },
         {
-          "CrabCakes": ""
+          "Hot Pepper": "https://www.stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Vegetable Medley": "https://www.stardewvalleywiki.com/mediawiki/images/0/0a/Vegetable_Medley.png"
         }
       ]
     },
@@ -685,22 +682,19 @@
       "birthday": "Winter 3",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Blueberry Tart": "https://www.stardewvalleywiki.com/mediawiki/images/9/9b/Blueberry_Tart.png"
         },
         {
-          "CrabCakes": ""
+          "Cactus Fruit": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
         },
         {
-          "CrabCakes": ""
+          "Coconut": "https://www.stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
         },
         {
-          "CrabCakes": ""
+          "Dish O' The Sea": "https://www.stardewvalleywiki.com/mediawiki/images/f/ff/Dish_O%27_The_Sea.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Yam": "https://www.stardewvalleywiki.com/mediawiki/images/5/52/Yam.png"
         }
       ]
     },
@@ -713,22 +707,16 @@
       "birthday": "Fall 18",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Farmer's Lunch": "https://www.stardewvalleywiki.com/mediawiki/images/7/79/Farmer%27s_Lunch.png"
         },
         {
-          "CrabCakes": ""
+          "Pink Cake": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Pumpkin Pie": "https://www.stardewvalleywiki.com/mediawiki/images/7/7d/Pumpkin_Pie.png"
         }
       ]
     },
@@ -741,22 +729,28 @@
       "birthday": "Spring 18",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Beer": "https://www.stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
         },
         {
-          "CrabCakes": ""
+          "Cactus Fruit": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
         },
         {
-          "CrabCakes": ""
+          "Glazed Yams": "https://www.stardewvalleywiki.com/mediawiki/images/3/30/Glazed_Yams.png"
         },
         {
-          "CrabCakes": ""
+          "Mead": "https://www.stardewvalleywiki.com/mediawiki/images/8/84/Mead.png"
         },
         {
-          "CrabCakes": ""
+          "Pale Ale": "https://www.stardewvalleywiki.com/mediawiki/images/7/78/Pale_Ale.png"
         },
         {
-          "CrabCakes": ""
+          "Parsnip": "https://www.stardewvalleywiki.com/mediawiki/images/d/db/Parsnip.png"
+        },
+        {
+          "Parsnip Soup": "https://www.stardewvalleywiki.com/mediawiki/images/7/76/Parsnip_Soup.png"
+        },
+        {
+          "Piña Colada": "https://www.stardewvalleywiki.com/mediawiki/images/1/12/Pi%C3%B1a_Colada.png"
         }
       ]
     },
@@ -769,22 +763,7 @@
       "birthday": "Spring 26",
       "favorites": [
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Fried Calamari": "https://www.stardewvalleywiki.com/mediawiki/images/2/25/Fried_Calamari.png"
         }
       ]
     },
@@ -797,22 +776,13 @@
       "birthday": "Fall 21",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Goat Cheese": "https://www.stardewvalleywiki.com/mediawiki/images/c/c8/Goat_Cheese.png"
         },
         {
-          "CrabCakes": ""
+          "Peach": "https://www.stardewvalleywiki.com/mediawiki/images/e/e2/Peach.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Spaghetti": "https://www.stardewvalleywiki.com/mediawiki/images/0/08/Spaghetti.png"
         }
       ]
     },
@@ -825,22 +795,16 @@
       "birthday": "Fall 15",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Crocus": "https://www.stardewvalleywiki.com/mediawiki/images/2/2f/Crocus.png"
         },
         {
-          "CrabCakes": ""
+          "Daffodil": "https://www.stardewvalleywiki.com/mediawiki/images/4/4b/Daffodil.png"
         },
         {
-          "CrabCakes": ""
+          "Mango Sticky Rice": "https://www.stardewvalleywiki.com/mediawiki/images/6/6e/Mango_Sticky_Rice.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Sweet Pea": "https://www.stardewvalleywiki.com/mediawiki/images/d/d9/Sweet_Pea.png"
         }
       ]
     },
@@ -853,22 +817,19 @@
       "birthday": "Spring 10",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Cranberry Candy": "https://www.stardewvalleywiki.com/mediawiki/images/9/9d/Cranberry_Candy.png"
         },
         {
-          "CrabCakes": ""
+          "Ginger Ale": "https://www.stardewvalleywiki.com/mediawiki/images/1/1a/Ginger_Ale.png"
         },
         {
-          "CrabCakes": ""
+          "Grape": "https://www.stardewvalleywiki.com/mediawiki/images/c/c2/Grape.png"
         },
         {
-          "CrabCakes": ""
+          "Pink Cake": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Snail": "https://www.stardewvalleywiki.com/mediawiki/images/d/d2/Snail.png"
         }
       ]
     },
@@ -881,22 +842,28 @@
       "birthday": "Summer 24",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Catfish": "https://www.stardewvalleywiki.com/mediawiki/images/9/99/Catfish.png"
         },
         {
-          "CrabCakes": ""
+          "Diamond": "https://www.stardewvalleywiki.com/mediawiki/images/e/ea/Diamond.png"
         },
         {
-          "CrabCakes": ""
+          "Iridium Bar": "https://www.stardewvalleywiki.com/mediawiki/images/c/c4/Iridium_Bar.png"
         },
         {
-          "CrabCakes": ""
+          "Mead": "https://www.stardewvalleywiki.com/mediawiki/images/8/84/Mead.png"
         },
         {
-          "CrabCakes": ""
+          "Octopus": "https://www.stardewvalleywiki.com/mediawiki/images/5/5a/Octopus.png"
         },
         {
-          "CrabCakes": ""
+          "Pumpkin": "https://www.stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+        },
+        {
+          "Sea Cucumber": "https://www.stardewvalleywiki.com/mediawiki/images/a/a9/Sea_Cucumber.png"
+        },
+        {
+          "Sturgeon": "https://www.stardewvalleywiki.com/mediawiki/images/4/42/Sturgeon.png"
         }
       ]
     },
@@ -909,22 +876,16 @@
       "birthday": "Winter 17",
       "favorites": [
         {
-          "CrabCakes": ""
+          "Purple Mushroom": "https://www.stardewvalleywiki.com/mediawiki/images/4/4b/Purple_Mushroom.png"
         },
         {
-          "CrabCakes": ""
+          "Solar Essence": "https://www.stardewvalleywiki.com/mediawiki/images/f/f4/Solar_Essence.png"
         },
         {
-          "CrabCakes": ""
+          "Super Cucumber": "https://www.stardewvalleywiki.com/mediawiki/images/d/d5/Super_Cucumber.png"
         },
         {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
-        },
-        {
-          "CrabCakes": ""
+          "Void Essence": "https://www.stardewvalleywiki.com/mediawiki/images/1/1f/Void_Essence.png"
         }
       ]
     }
