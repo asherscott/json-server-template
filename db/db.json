@@ -7,7 +7,14 @@
       "town": "Pelican Town",
       "address": "1 River Road",
       "birthday": "Summer 13",
-      "favorites": ""
+      "favorites": [
+        {
+          "Complete Breakfast": "https://www.stardewvalleywiki.com/mediawiki/images/3/3d/Complete_Breakfast.png"
+        },
+        {
+          "Salmon Dinner": "https://www.stardewvalleywiki.com/mediawiki/images/8/8b/Salmon_Dinner.png"
+        }
+      ]
     },
     {
       "id": 2,
@@ -16,7 +23,26 @@
       "town": "The Beach",
       "address": "Elliott's Cabin",
       "birthday": "Fall 5",
-      "favorites": ""
+      "favorites": [
+        {
+          "Crab Cakes": "https://www.stardewvalleywiki.com/mediawiki/images/7/70/Crab_Cakes.png"
+        },
+        {
+          "Duck Feather": "https://www.stardewvalleywiki.com/mediawiki/images/f/f9/Duck_Feather.png"
+        },
+        {
+          "Lobster": "https://www.stardewvalleywiki.com/mediawiki/images/9/9f/Lobster.png"
+        },
+        {
+          "Pomegranate": "https://www.stardewvalleywiki.com/mediawiki/images/1/1b/Pomegranate.png"
+        },
+        {
+          "Squid Ink": "https://www.stardewvalleywiki.com/mediawiki/images/a/ac/Squid_Ink.png"
+        },
+        {
+          "Tom Kha Soup": "https://www.stardewvalleywiki.com/mediawiki/images/3/3b/Tom_Kha_Soup.png"
+        }
+      ]
     },
     {
       "id": 3,
@@ -25,7 +51,23 @@
       "town": "Pelican Town",
       "address": "Medical Clinic",
       "birthday": "Winter 14",
-      "favorites": ""
+      "favorites": [
+        {
+          "Coffee": "https://www.stardewvalleywiki.com/mediawiki/images/e/e9/Coffee.png"
+        },
+        {
+          "Pickles": "https://www.stardewvalleywiki.com/mediawiki/images/c/c7/Pickles.png"
+        },
+        {
+          "Super Meal": "https://www.stardewvalleywiki.com/mediawiki/images/d/d2/Super_Meal.png"
+        },
+        {
+          "Truffle Oil": "https://www.stardewvalleywiki.com/mediawiki/images/3/3d/Truffle_Oil.png"
+        },
+        {
+          "Wine": "https://www.stardewvalleywiki.com/mediawiki/images/6/69/Wine.png"
+        }
+      ]
     },
     {
       "id": 4,
@@ -34,7 +76,20 @@
       "town": "Pelican Town",
       "address": "1 Willow Lane",
       "birthday": "Summer 17",
-      "favorites": ""
+      "favorites": [
+        {
+          "Cactus Fruit": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Cactus_Fruit.png"
+        },
+        {
+          "Maple Bar": "https://www.stardewvalleywiki.com/mediawiki/images/1/18/Maple_Bar.png"
+        },
+        {
+          "Pizza": "https://www.stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png"
+        },
+        {
+          "Tigerseye": "https://www.stardewvalleywiki.com/mediawiki/images/6/6e/Tigerseye.png"
+        }
+      ]
     },
     {
       "id": 5,
@@ -43,7 +98,23 @@
       "town": "The Mountain",
       "address": "24 Mountain Road",
       "birthday": "Winter 10",
-      "favorites": ""
+      "favorites": [
+        {
+          "Frozen Tear": "https://www.stardewvalleywiki.com/mediawiki/images/e/ec/Frozen_Tear.png"
+        },
+        {
+          "Obsidian": "https://www.stardewvalleywiki.com/mediawiki/images/2/23/Obsidian.png"
+        },
+        {
+          "Pumpkin Soup": "https://www.stardewvalleywiki.com/mediawiki/images/5/59/Pumpkin_Soup.png"
+        },
+        {
+          "Sashimi": "https://www.stardewvalleywiki.com/mediawiki/images/4/41/Sashimi.png"
+        },
+        {
+          "Void Egg": "https://www.stardewvalleywiki.com/mediawiki/images/5/58/Void_Egg.png"
+        }
+      ]
     },
     {
       "id": 6,
@@ -52,7 +123,20 @@
       "town": "Cindersap Forest",
       "address": "Marnie's Ranch",
       "birthday": "Spring 20",
-      "favorites": ""
+      "favorites": [
+        {
+          "Beer": "https://www.stardewvalleywiki.com/mediawiki/images/b/b3/Beer.png"
+        },
+        {
+          "Hot Pepper": "https://www.stardewvalleywiki.com/mediawiki/images/f/f1/Hot_Pepper.png"
+        },
+        {
+          "Pepper Poppers": "https://www.stardewvalleywiki.com/mediawiki/images/0/08/Pepper_Poppers.png"
+        },
+        {
+          "Pizza": "https://www.stardewvalleywiki.com/mediawiki/images/f/f4/Pizza.png"
+        }
+      ]
     },
     {
       "id": 7,
@@ -61,7 +145,29 @@
       "town": "Pelican Town",
       "address": "Pierre's General Store",
       "birthday": "Fall 13",
-      "favorites": ""
+      "favorites": [
+        {
+          "Amethyst": "https://www.stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "Banana Pudding": "https://www.stardewvalleywiki.com/mediawiki/images/4/40/Banana_Pudding.png"
+        },
+        {
+          "Blackberry Cobbler": "https://www.stardewvalleywiki.com/mediawiki/images/7/70/Blackberry_Cobbler.png"
+        },
+        {
+          "Chocolate Cake": "https://www.stardewvalleywiki.com/mediawiki/images/8/87/Chocolate_Cake.png"
+        },
+        {
+          "Pufferfish": "https://www.stardewvalleywiki.com/mediawiki/images/b/ba/Pufferfish.png"
+        },
+        {
+          "Pumpkin": "https://www.stardewvalleywiki.com/mediawiki/images/6/64/Pumpkin.png"
+        },
+        {
+          "Spicy Eel": "https://www.stardewvalleywiki.com/mediawiki/images/f/f2/Spicy_Eel.png"
+        }
+      ]
     },
     {
       "id": 8,
@@ -70,7 +176,35 @@
       "town": "Pelican Town",
       "address": "2 Willow Lane",
       "birthday": "Spring 27",
-      "favorites": ""
+      "favorites": [
+        {
+          "Amethyst": "https://www.stardewvalleywiki.com/mediawiki/images/2/2e/Amethyst.png"
+        },
+        {
+          "Aquamarine": "https://www.stardewvalleywiki.com/mediawiki/images/a/a2/Aquamarine.png"
+        },
+        {
+          "Cloth": "https://www.stardewvalleywiki.com/mediawiki/images/5/51/Cloth.png"
+        },
+        {
+          "Emerald": "https://www.stardewvalleywiki.com/mediawiki/images/6/6a/Emerald.png"
+        },
+        {
+          "Jade": "https://www.stardewvalleywiki.com/mediawiki/images/7/7e/Jade.png"
+        },
+        {
+          "Ruby": "https://www.stardewvalleywiki.com/mediawiki/images/a/a9/Ruby.png"
+        },
+        {
+          "Survival Burger": "https://www.stardewvalleywiki.com/mediawiki/images/8/87/Survival_Burger.png"
+        },
+        {
+          "Topaz": "https://www.stardewvalleywiki.com/mediawiki/images/a/a5/Topaz.png"
+        },
+        {
+          "Wool": "https://www.stardewvalleywiki.com/mediawiki/images/3/34/Wool.png"
+        }
+      ]
     },
     {
       "id": 9,
@@ -79,7 +213,20 @@
       "town": "Pelican Town",
       "address": "2 Willow Lane",
       "birthday": "Spring 14",
-      "favorites": ""
+      "favorites": [
+        {
+          "Coconut": "https://www.stardewvalleywiki.com/mediawiki/images/2/2f/Coconut.png"
+        },
+        {
+          "Fruit Salad": "https://www.stardewvalleywiki.com/mediawiki/images/9/9e/Fruit_Salad.png"
+        },
+        {
+          "Pink Cake": "https://www.stardewvalleywiki.com/mediawiki/images/3/32/Pink_Cake.png"
+        },
+        {
+          "Sunflower": "https://www.stardewvalleywiki.com/mediawiki/images/8/81/Sunflower.png"
+        }
+      ]
     },
     {
       "id": 10,
@@ -88,7 +235,26 @@
       "town": "Cindersap Forest",
       "address": "Leah's Cottage",
       "birthday": "Winter 23",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 11,
@@ -97,7 +263,26 @@
       "town": "The Mountain",
       "address": "24 Mountain Road",
       "birthday": "Summer 10",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 12,
@@ -106,7 +291,26 @@
       "town": "Pelican Town",
       "address": "Trailer",
       "birthday": "Fall 2",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 13,
@@ -115,7 +319,26 @@
       "town": "Pelican Town",
       "address": "Pierre's General Store",
       "birthday": "Winter 7",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 14,
@@ -124,7 +347,26 @@
       "town": "Pelican Town",
       "address": "Blacksmith",
       "birthday": "Winter 26",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 15,
@@ -133,7 +375,26 @@
       "town": "The Mountain",
       "address": "24 Mountain Road",
       "birthday": "Summer 19",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 16,
@@ -142,7 +403,26 @@
       "town": "The Mines",
       "address": "Eastern Cave",
       "birthday": "Summer 22",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 17,
@@ -151,7 +431,26 @@
       "town": "Pelican Town",
       "address": "1 River Road",
       "birthday": "Winter 20",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 18,
@@ -160,7 +459,26 @@
       "town": "Pelican Town",
       "address": "1 River Road",
       "birthday": "Fall 24",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 19,
@@ -169,7 +487,26 @@
       "town": "Pelican Town",
       "address": "The Stardrop Saloon",
       "birthday": "Summer 8",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 20,
@@ -178,7 +515,26 @@
       "town": "Cindersap Forest",
       "address": "Marnie's Ranch",
       "birthday": "Summer 4",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 21,
@@ -187,7 +543,26 @@
       "town": "Pelican Town",
       "address": "1 Willow Lane",
       "birthday": "Fall 11",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 22,
@@ -196,7 +571,26 @@
       "town": "Pelican Town",
       "address": "1 Willow Lane",
       "birthday": "Spring 4",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 23,
@@ -205,7 +599,26 @@
       "town": "The Sewers",
       "address": "Krobus's Shop",
       "birthday": "Winter 1",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 24,
@@ -214,7 +627,26 @@
       "town": "Ginger Island",
       "address": "Hut or Treehouse",
       "birthday": "Summer 26",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 25,
@@ -223,7 +655,26 @@
       "town": "Pelican Town",
       "address": "Mayor's Manor",
       "birthday": "Spring 7",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 26,
@@ -232,7 +683,26 @@
       "town": "The Mountain",
       "address": "Tent",
       "birthday": "Winter 3",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 27,
@@ -241,7 +711,26 @@
       "town": "Cindersap Forest",
       "address": "Marnie's Ranch",
       "birthday": "Fall 18",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 28,
@@ -250,7 +739,26 @@
       "town": "Pelican Town",
       "address": "Trailer",
       "birthday": "Spring 18",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 29,
@@ -259,7 +767,26 @@
       "town": "Pelican Town",
       "address": "Pierre's General Store",
       "birthday": "Spring 26",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 30,
@@ -268,7 +795,26 @@
       "town": "The Mountain",
       "address": "24 Mountain Road",
       "birthday": "Fall 21",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 31,
@@ -277,7 +823,26 @@
       "town": "The Desert",
       "address": "Oasis",
       "birthday": "Fall 15",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 32,
@@ -286,7 +851,26 @@
       "town": "Pelican Town",
       "address": "1 Willow Lane",
       "birthday": "Spring 10",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 33,
@@ -295,7 +879,26 @@
       "town": "The Beach",
       "address": "Fish Shop",
       "birthday": "Summer 24",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     },
     {
       "id": 34,
@@ -304,7 +907,26 @@
       "town": "Cindersap Forest",
       "address": "Wizard's Tower",
       "birthday": "Winter 17",
-      "favorites": ""
+      "favorites": [
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        },
+        {
+          "CrabCakes": ""
+        }
+      ]
     }
   ]
 }
