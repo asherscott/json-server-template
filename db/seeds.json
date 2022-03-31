@@ -889,5 +889,25 @@
         }
       ]
     }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "title": "Very Nice!",
+      "remark": "This Thing is very nice",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "title": "Not Bad!",
+      "remark": "Pretty good... I guess",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "title": "This Sucks!",
+      "remark": "I hate this.",
+      "rating": 1
+    }
   ]
 }
